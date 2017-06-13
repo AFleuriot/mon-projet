@@ -2,7 +2,7 @@ package run;
 
 public class Master {
 	
-	public boolean okTest(){
+	public boolean okTester(){
 		return false;
 	}
 
